@@ -1,0 +1,2 @@
+  File "two_table.py", line 7
+SyntaxError: Non-ASCII character '\xe6' in file two_table.py on line 7, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
